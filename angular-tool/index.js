@@ -1,0 +1,1 @@
+console.log("小工具")
